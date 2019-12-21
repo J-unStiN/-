@@ -1,0 +1,13 @@
+1) 크라이시스텍스트라인(CTL) https://www.crisistextline.org/
+2) Waifu2x
+3) 이미지 처리 goo.gl/gtJmWa  , goo.gl/w35DqB
+4) https://www.thenorthface.com/xps?cm_mc_uid=57718757426015047830830&cm_mc_sid_50200000=1505116529
+5) https://www.autodraw.com/
+6) http://www.rossintelligence.com/
+7) https://www.blog.google/topics/machine-learning/could-machine-learning-save-sea-cow/
+8) https://www.aia.co.kr/ko/help-support/about-aia-on.html
+9) https://deepjazz.io/
+10)파나마 문서 분석
+11)NoSQL DB 사례
+12)인공지능 스피커 사례
+13)IBM Watson (의료, 언어)
